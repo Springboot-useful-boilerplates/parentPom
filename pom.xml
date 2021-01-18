@@ -19,7 +19,7 @@
         <springBootStarterVersion>2.3.8.RELEASE</springBootStarterVersion>
 
         <gsonVersion>2.8.6</gsonVersion>
-        <dependencyCheckPluginVersion>6.0.3</dependencyCheckPluginVersion>
+        <dependencyCheckPluginVersion>6.0.5</dependencyCheckPluginVersion>
         <mavenCheckstylePluginVersion>3.1.1</mavenCheckstylePluginVersion>
         <mavenResourcesPluginVersion>3.2.0</mavenResourcesPluginVersion>
         <mavenPMDPluginVersion>3.14.0</mavenPMDPluginVersion>
